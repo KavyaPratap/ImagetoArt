@@ -97,7 +97,12 @@ You can adjust the number of colors by changing the value of K in the k-means cl
 The outline enhancement can be fine-tuned by adjusting the parameters of the edge detection and dilation steps.
 By following these instructions, you should be able to use and understand the cartoonizer program effectively.
 
-
+<h2>Contributing</h2>
+    <p>Contributions are welcome! Feel free to fork this project and submit pull requests with improvements or new features.</p>
+    
+   <h2>License</h2>
+    <p>This project is licensed under the MIT License. See the <a href="https://opensource.org/licenses/MIT">LICENSE</a> file for details.</p>
+    
 
 
 
